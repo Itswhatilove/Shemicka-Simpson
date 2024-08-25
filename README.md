@@ -16,8 +16,8 @@
 - Certified Associate Project Manager
 - Google IT Support
 
-<h2> 🤳 Connect with me: [linkedin]:(https://www.linkedin.com/in/shemickas/)</h2> 
-[linkedin]:(https://www.linkedin.com/in/shemickas/)
+<h2> 🤳 Connect with me:</h2> 
+linkedin:(https://www.linkedin.com/in/shemickas/)
 
 
 

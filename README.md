@@ -16,8 +16,8 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Currency Converter]
-  - [Pathagorean Theorem Calculator]
+  - [Currency Converter] (
+  - [Pathagorean Theorem Calculator](https://github.com/Itswhatilove/Pythagorean-Theorem)
 
 <h2>Certifications</h2>
 

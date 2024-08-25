@@ -21,8 +21,8 @@
 
 <h2>Certifications</h2>
 
-- [Certified Associate Project Manager]
-- [Google IT Support]
+- Certified Associate Project Manager
+- Google IT Support
 
 <h2> 🤳 Connect with me:</h2>
 

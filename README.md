@@ -1,6 +1,6 @@
 <h1>Hi, I'm Shemicka!</h1>
                              
-<p>I'm a passionate beginner Python coder, eager to learn and grow my skills. Self-taught and always curious, I'm excited to explore the vast world of programming and contribute to open-source projects.</p>
+<p>I'm a beginner Python coder, eager to learn and grow my skills. Self-taught and always curious. In addition to coding I'm also a business professional excited to apply my analytical skills and problem-solving abilities to the world of coding.</p>
   
 <h2>👨‍💻 General IT Projects:</h2>
 
